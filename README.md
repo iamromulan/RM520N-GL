@@ -1,24 +1,23 @@
 # RM520N-GL
 The Quectel RM520N-GL is 5G IoT module specially optimized for IoT/eMBB applications.
 
-You will find Tools, Docs, and Firmware for it here, as well as a .cmd that installs everything for windows.
-## Windows Autoinstaller:
-![cmd repo](https://github.com/iamromulan/quectel-rgmii-configuration-notes/blob/main/images/repocmd.png?raw=true)
+You will find Tools, Docs, and Firmware for it here, as well as a .exe (QuecDeploy) that installs everything for windows.
+## QuecDeploy:
+![Screenshot 2024-07-31 130755](https://github.com/user-attachments/assets/dc351b48-3682-4181-b33c-843136221d1c)
 
-**[RM520 Resource Package DOWNLOAD (Coming Soon!)](/null)**
+**[QuecDeploy DOWNLOAD](https://github.com/iamromulan/rm520n-gl/releases)**
 
 **Note**
 
-Unfortunately due to GitHub's 100MB per file limit, Qflash and the firmware directory couldn't be uploaded to the repository. It is however included in the latest [RM520 Resource Package](/null) (New version coming soon) and by using their download links listed here.
+Unfortunately due to GitHub's 100MB per file limit, Qflash and the firmware directory couldn't be uploaded to the repository. It is however included in the latest [QuecDeploy](https://github.com/iamromulan/rm520n-gl/releases) and by using their download links listed here.
 
 **What this does**
 
-It is a menu style cmd script that will let you install Qflash, Qnav, Qcom, and ADB tools. It will also let you download firmware and PDFs. It heavily relies on megatools, a cli for downloading files from mega.nz
-It will temporarily download megatools to the directory its ran at first use and delete them when exiting using the menu option.
+It is a menu style Powershell script that will let you install Qflash and Qnav. adb abd fastboot are now automaticly included with Qflash! It will also let you download firmware and view PDF for several modems. It heavily relies on megatools, a cli for downloading files from mega.nz
 All files installed/downloaded will go to C:\Quectel\
 
 # Table of Contents
-- [Windows Autoinstaller](#windows-autoinstaller)
+- [QuecDeploy](#quecdeploy)
 - [Toolz](#toolz)
 - [Firmware](#firmware)
 - [Firmware update instructions](#firmware-update-instructions)
@@ -40,13 +39,15 @@ All files installed/downloaded will go to C:\Quectel\
 
 [Quectel Windows USB Driver(Q) RNDIS V1.1](https://mega.nz/file/vRN1ERaL#0zp9di4iFEaamkczsmw_Xaxr3fcWS7in9ODXZ73l8Lg)
 
-[QFlash V7.0 EN](https://mega.nz/file/CN1RBQ4D#njN402sdwN2BWFxNx1yLw4NTULn4OGR8GB0G8znaCtM) 
+[QFlash V7.1 EN](https://mega.nz/file/bdUWiKSQ#7RPymUcm7Rgdjf9mRsWjuf9zXia5qxV7NZWMLruvb5A) 
 
 [QFlash V6.9 EN](https://mega.nz/file/vdFH0LrB#lnrp3G4HEmgcwGTViQzpFm2iNxBYe5k_EkdGRvglJdA)
 
 [QFlash_PCIE_V1.0](https://mega.nz/file/SB9C3JqR#1qrUfTIzL0n-Wwpsnz8MIDjH4rifp5V8Tshax5Te7Ho)
 
 [Qnavigator V1.6.10](https://mega.nz/file/2RMFAbCT#zq3r9TmEF8REXK6PkuAXFiuyPI5Tw4oqYnHGEiSmoD4)
+
+[QCOM V1.8.2](https://mega.nz/file/CVcFgQLI#b1AfPvmIq9N_MHQBi8MkZFphADdW3Af7Hc8kFH0LiW8)
 
 <a href="https://drive.google.com/file/d/1xVw5IBowlKn7HPqfyYfoZdBx1p5Xs7aU/view?usp=sharing" title="QCOM_V1.6">QCOM V1.6</a>
 

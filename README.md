@@ -13,7 +13,7 @@ Unfortunately due to GitHub's 100MB per file limit, Qflash and the firmware dire
 
 **What this does**
 
-It is a menu style Powershell script that will let you install Qflash and Qnav. adb abd fastboot are now automaticly included with Qflash! It will also let you download firmware and view PDF for several modems. It heavily relies on megatools, a cli for downloading files from mega.nz
+It is a menu style Powershell script that will let you install Qflash and Qnav. adb abd fastboot are now automatically included with Qflash! It will also let you download firmware and view PDF for several modems. It heavily relies on megatools, a cli for downloading files from mega.nz
 All files installed/downloaded will go to C:\Quectel\
 
 # Table of Contents
@@ -61,9 +61,9 @@ All files installed/downloaded will go to C:\Quectel\
 
 [Quectel Linux Android SPRD PCIE Driver V1.1.1](https://mega.nz/file/uBk3GDRA#3iILSy8HrFaC9Ug1xV1qmOlsz_UTfM6WD4_0lgFAZ30)
 
-[Quectel Linux Android QMI WWAN_Driver V1.2.1()
+[Quectel Linux Android QMI WWAN_Driver V1.2.1](https://mega.nz/file/LcsVzLjT#jBPdvFz00TBcNef3uQ1KxxnftkVl4qchZ_aTLQuY-2E)
 
-[Quectel Linux Android GobiNet Driver V1.6.3]()
+[Quectel Linux Android GobiNet Driver V1.6.3](https://mega.nz/file/TZczXQxa#pEjC2KJoDJISxdgGyNyqOJ3Wf8eNViTdUa5snNL0G8c)
 
 </details>
 
@@ -290,6 +290,6 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 ![](https://github.com/4IceG/Personal_data/blob/master/5G/quectel_rm520n-gl_5g_specification_v1-0-0_preliminary_20210915-2.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg4MDQ1NSwzOTA5NTYyNDUsMTEwMj
+eyJoaXN0b3J5IjpbMTM1MTQxMzkxOSwzOTA5NTYyNDUsMTEwMj
 g0MjIxMiw2OTU5MzA3NDEsLTEzMTkyMjQ2NzddfQ==
 -->

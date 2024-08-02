@@ -61,9 +61,9 @@ All files installed/downloaded will go to C:\Quectel\
 
 [Quectel Linux Android SPRD PCIE Driver V1.1.1](https://mega.nz/file/uBk3GDRA#3iILSy8HrFaC9Ug1xV1qmOlsz_UTfM6WD4_0lgFAZ30)
 
-<a href="https://drive.google.com/file/d/1Sh4BHusGdrteIZCUN63SngR32zRfiGDC/view?usp=drive_link" title="Quectel_Linux_Android_QMI_WWAN_Driver_V1.2.1">Quectel Linux Android QMI WWAN_Driver V1.2.1</a>
+[Quectel Linux Android QMI WWAN_Driver V1.2.1()
 
-<a href="https://drive.google.com/file/d/1iTC4nbNNMtpxrKFLDYvseReA8vR9Quwh/view?usp=drive_link" title="Quectel_Linux_Android_GobiNet_Driver_V1.6.3">Quectel Linux Android GobiNet Driver V1.6.3</a>
+[Quectel Linux Android GobiNet Driver V1.6.3]()
 
 </details>
 
@@ -290,6 +290,6 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 ![](https://github.com/4IceG/Personal_data/blob/master/5G/quectel_rm520n-gl_5g_specification_v1-0-0_preliminary_20210915-2.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIyMTc2MzksMzkwOTU2MjQ1LDExMD
-I4NDIyMTIsNjk1OTMwNzQxLC0xMzE5MjI0Njc3XX0=
+eyJoaXN0b3J5IjpbLTEyOTg4MDQ1NSwzOTA5NTYyNDUsMTEwMj
+g0MjIxMiw2OTU5MzA3NDEsLTEzMTkyMjQ2NzddfQ==
 -->

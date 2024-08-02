@@ -111,7 +111,7 @@ All files installed/downloaded will go to C:\Quectel\
    <summary>Windows | View</summary>
 
 Step 1.
-> Install modem drivers [Quectel Windows USB Driver(Q) NDIS V2.6.0](https://mega.nz/file/GVMS1D7K#ogA1oLOwhkRlLWDDhisG9p0k1H_jhcAJOesHHV-XKUg)  on your system. The [QuecDeploy](#quecdeploy) tool will help you do this as well. If you don't already have QFlash install it from the [QuecDeploy](#quecdeploy) tool or the respective link in [Toolz](#toolz)
+> Install modem drivers [Quectel Windows USB Driver(Q) NDIS V2.6.0](https://mega.nz/file/GVMS1D7K#ogA1oLOwhkRlLWDDhisG9p0k1H_jhcAJOesHHV-XKUg)  on your system. The [QuecDeploy](#windows-autoinstaller) will help you do this as well. If you don't already have QFlash install it from the [Windows Autoinstaller](#windows-autoinstaller) or the respective link in [Toolz](#toolz)
 
 Step 2.
 > Connect modem to your computer, by usb
@@ -290,6 +290,6 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 ![](https://github.com/4IceG/Personal_data/blob/master/5G/quectel_rm520n-gl_5g_specification_v1-0-0_preliminary_20210915-2.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDE0Njg5MSwzOTA5NTYyNDUsMTEwMj
+eyJoaXN0b3J5IjpbLTg3MDIwMDQ0OCwzOTA5NTYyNDUsMTEwMj
 g0MjIxMiw2OTU5MzA3NDEsLTEzMTkyMjQ2NzddfQ==
 -->

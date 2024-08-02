@@ -56,10 +56,6 @@ All files installed/downloaded will go to C:\Quectel\
 
 <a href="https://github.com/4IceG/RM520N-GL/blob/main/Toolz/QFirehose_Linux_Android_V1.4.17.zip" title="QFirehose_Linux_Android_V1.4.17">QFirehose V1.4.17</a>
 
-<a href="https://github.com/4IceG/RM520N-GL/blob/main/Toolz/QFirehose_Linux_Android_V1.4.15.zip" title="QFirehose_Linux_Android_V1.4.15">QFirehose V1.4.15</a>
-
-<a href="https://github.com/4IceG/RM520N-GL/blob/main/Toolz/QFirehose_Linux_Android_V1.4.11.zip" title="QFirehose_Linux_Android_V1.4.11">QFirehose V1.4.11</a>
-
 <a href="https://drive.google.com/file/d/1V9zK4IWE0zuZxEpAr2JOm4AID0yZrm6h/view?usp=drive_link" title="Quectel_Linux_PCIE_MHI_Driver_V1.3.3">Quectel Linux PCIE MHI Driver V1.3.3</a>
 
 <a href="https://drive.google.com/file/d/1amE1TgwuLh0bgos1T6rQMphIOnv_f1_T/view?usp=drive_link" title="Quectel_Linux_Android_SPRD_PCIE_Driver_V1.1.1">Quectel Linux Android SPRD PCIE Driver V1.1.1</a>
@@ -293,5 +289,5 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 ![](https://github.com/4IceG/Personal_data/blob/master/5G/quectel_rm520n-gl_5g_specification_v1-0-0_preliminary_20210915-2.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTkyMjQ2NzddfQ==
+eyJoaXN0b3J5IjpbNjk1OTMwNzQxLC0xMzE5MjI0Njc3XX0=
 -->

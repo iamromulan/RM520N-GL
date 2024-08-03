@@ -44,7 +44,7 @@ The modems M.2 B-Key interface is a combination of both USB 3.1 and PCIe 4.0 alo
     - ``AT+QCFG="usbnet",1`` (ECM) (AP)
     - ``AT+QCFG="usbnet",2`` (MBIM) (TE)
     - ``AT+QCFG="usbnet",3`` (RNDIS) (AP)
--:bulb:After setting a USB mode reboot to have it  take effect with ``AT+CFUN=1,1``
+- :bulb: After setting a USB mode reboot to have it  take effect with ``AT+CFUN=1,1``
 
 ### PCIe modes
 - PCIe devices can take 2 different roles. Its either an endpoint device or a root complex (host) device. For example, a desktop computer/PC has a graphics card or WiFi card installed to a PCIe slot. The computer would be (have) the Root Complex, while the Graphics Card or WiFi card would be the endpoint device.
@@ -69,7 +69,7 @@ The modems M.2 B-Key interface is a combination of both USB 3.1 and PCIe 4.0 alo
 
 **[QuecDeploy DOWNLOAD](https://github.com/iamromulan/rm520n-gl/releases)**
 
->:bulb:**Note:**
+> :bulb: **Note:**
 
 If you would prefer to simply explorer all of the downloads I can give you; take a look at my [Mega Public Directory](https://mega.nz/folder/CRFWlIpQ#grOByBgkfZe5uLMkX2M2XA)
 
@@ -179,7 +179,7 @@ Step 4.
 > Open Qflash 
 
 > Remember to avoid spaces in the path where QFlash is installed to and firmware location
-> :bulb:Example: C:\Quectel\Q flash\ is bad while C:\Quectel\Qflash\ is good (If you installed Qflash and downloaded your firmware with [QuecTool](#quectool) then you don't need to worry about this.)
+> :bulb: Example: C:\Quectel\Q flash\ is bad while C:\Quectel\Qflash\ is good (If you installed Qflash and downloaded your firmware with [QuecTool](#quectool) then you don't need to worry about this.)
 > Click Load FW Files.
 ![](https://github.com/iamromulan/RM520N-GL/blob/main/Images/qflash_loadfw.png?raw=tru)
 

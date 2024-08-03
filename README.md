@@ -48,7 +48,7 @@ The modems M.2 B-Key interface is a combination of both USB 3.1 and PCIe 4.0 alo
 
 ### PCIe modes
 - PCIe devices can take 2 different roles. Its either an endpoint device or a root complex (host) device. For example, a desktop computer/PC has a graphics card or WiFi card installed to a PCIe slot. The computer would be (have) the Root Complex, while the Graphics Card or WiFi card would be the endpoint device.
-- To know check what PCIe mode the modem is currently in run the AT command ``AT+QCFG="pcie/mode"``
+- To check what PCIe mode the modem is currently in run the AT command ``AT+QCFG="pcie/mode"``
   - To set the PCIe mode to Endpoint mode (TE) run the AT command ``AT+QCFG="pcie/mode",0`` 
   - To set the PCIe mode to Root complex mode (AP) run the AT command ``AT+QCFG="pcie/mode",1``
 #### PCIe EP (Endpoint Mode)(TE)

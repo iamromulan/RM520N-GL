@@ -265,68 +265,68 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 <details>
    <summary>General</summary>
 
-<a href="https://www2.quectel.com/5GLTEAdvance">[NEW!] Quectel 5G&LTE-Advanced Module Product Overview V7.1</a>
+[[NEW!] Quectel 5G&LTE-Advanced Module Product Overview V7.1](https://www2.quectel.com/5GLTEAdvance)
 
-<a href="https://mega.nz/file/TI9yHTjL#iJVMKIMRH-gaIwoSZkUDgmAU3s9hjL3I1brFHeV0t-I">Quectel Product Brochure V7.4</a>
+[Quectel Product Brochure V7.4](https://mega.nz/file/TI9yHTjL#iJVMKIMRH-gaIwoSZkUDgmAU3s9hjL3I1brFHeV0t-I)
 
-<a href="https://mega.nz/file/HMsgAI7Q#kVLf7ETrE13zrsUUmdq2NUe2d26ZSkbeqgmNXQ4offw">QCOM User Guide V1.1</a>
+[QCOM User Guide V1.1](https://mega.nz/file/HMsgAI7Q#kVLf7ETrE13zrsUUmdq2NUe2d26ZSkbeqgmNXQ4offw)
 
-<a href="https://mega.nz/file/bQsw1YqS#c2j1rqAvUZRAhQUniaHfUD0CZZNvxtusW12eIgReDzI">QFlash User Guide V5.0 </a>
+[QFlash User Guide V5.0](https://mega.nz/file/bQsw1YqS#c2j1rqAvUZRAhQUniaHfUD0CZZNvxtusW12eIgReDzI)
 
-<a href="https://mega.nz/file/fRlBgSDb#zusk1tH29-4HGu9tJJfxkpARlbo-LBwz3h4Bqk9qTEI">[Updated!] Quectel RM520N-GL Hardware Design</a>
+[[Updated!] Quectel RM520N-GL Hardware Design](https://mega.nz/file/fRlBgSDb#zusk1tH29-4HGu9tJJfxkpARlbo-LBwz3h4Bqk9qTEI)
 
-<a href="https://mega.nz/file/TcdFgJhQ#C6zNX0rSsrLOFy5bqUk5fnPZ-W7vFQBvh8gVyOxfNmk">[NEW!] Reference Design</a>
+[[NEW!] Reference Design](https://mega.nz/file/TcdFgJhQ#C6zNX0rSsrLOFy5bqUk5fnPZ-W7vFQBvh8gVyOxfNmk)
 
-<a href="https://mega.nz/file/vAcmWAzK#3IkjR9WLL9BQjKV9SEvDsuNgp-g0Bbm-TcLtRqMR6H8">[NEW!] A/B System Update Guide</a>
+[[NEW!] A/B System Update Guide](https://mega.nz/file/vAcmWAzK#3IkjR9WLL9BQjKV9SEvDsuNgp-g0Bbm-TcLtRqMR6H8)
 
-<a href="https://mega.nz/file/zAcUEIDL#_qEpH1C3rmDpaKFTUyud4zQY88pUEKrHhN1-qzY21bE">[NEW!] DFOTA Upgrade Process</a>
+[[NEW!] DFOTA Upgrade Process](https://mega.nz/file/zAcUEIDL#_qEpH1C3rmDpaKFTUyud4zQY88pUEKrHhN1-qzY21bE)
 
-<a href="https://mega.nz/file/Oc1C1DIQ#mucxYGBrauLJAhQUKDuIB9cb_ETuod743XE_eb-boqE">[NEW!] TCP/IP Application Note</a>
+[[NEW!] TCP/IP Application Note](https://mega.nz/file/Oc1C1DIQ#mucxYGBrauLJAhQUKDuIB9cb_ETuod743XE_eb-boqE)
 
-<a href="https://mega.nz/file/KV1XSYAT#sKN5N1HPjHETpk06zi7s_FXGNR2HaxIp4Qbw_cmy3Vc">[NEW!] Data Call Application Note</a>
+[[NEW!] Data Call Application Note](https://mega.nz/file/KV1XSYAT#sKN5N1HPjHETpk06zi7s_FXGNR2HaxIp4Qbw_cmy3Vc)
 
-<a href="https://mega.nz/file/CN1HQKyb#18bN9uZKJf6zInXDhsLWMW1mlP2tkM_QpC1X8i9r_v8">[NEW!] eSIM LPA Application Note 1.1</a>
+[[NEW!] eSIM LPA Application Note 1.1](https://mega.nz/file/CN1HQKyb#18bN9uZKJf6zInXDhsLWMW1mlP2tkM_QpC1X8i9r_v8)
 
-<a href="https://mega.nz/file/KU1QWYzC#9CB5ikUD6-YtcUzjaACEeA3YobYJXUhddalFRZ1KTZ4">[NEW!] eSIM LPA Application Note 1.0</a>
+[[NEW!] eSIM LPA Application Note 1.0](https://mega.nz/file/KU1QWYzC#9CB5ikUD6-YtcUzjaACEeA3YobYJXUhddalFRZ1KTZ4)
 
-<a href="https://mega.nz/file/aBkDSQAK#JMy2f4n-hMfDHoFbc6uQkOpr-lhc58v6Kqp0-NUH8rE">[NEW!] Voice Over ttyUSB Application Note</a>
+[[NEW!] Voice Over ttyUSB Application Note](https://mega.nz/file/aBkDSQAK#JMy2f4n-hMfDHoFbc6uQkOpr-lhc58v6Kqp0-NUH8rE)
 
-<a href="https://mega.nz/file/KAkFyTJQ#GekOQec5Ma2THtbQRQWfsK9_z6pGpFHe1XYxS1wMw-g">[NEW!] External VoLTE stack Application Note</a>
+[[NEW!] External VoLTE stack Application Note](https://mega.nz/file/KAkFyTJQ#GekOQec5Ma2THtbQRQWfsK9_z6pGpFHe1XYxS1wMw-g)
 
-<a href="https://mega.nz/file/jUEzlYaT#4ayxXXgZ62yr4qUPMneocvm_1ZhZ_N9y1mclvi5rrv4">[NEW!] File Application Note</a>
+[[NEW!] File Application Note](https://mega.nz/file/jUEzlYaT#4ayxXXgZ62yr4qUPMneocvm_1ZhZ_N9y1mclvi5rrv4)
 
-<a href="https://mega.nz/file/fY1w3QIK#XyrfW-cIHq30ZsLwFS7pJxc-6ZwAAP32Omh7IPLbSeY">[NEW!] GNSS Application Note</a>
+[[NEW!] GNSS Application Note](https://mega.nz/file/fY1w3QIK#XyrfW-cIHq30ZsLwFS7pJxc-6ZwAAP32Omh7IPLbSeY)
 
-<a href="https://mega.nz/file/nc810Jhb#gsnFEC8vhGYV_IY6boIKraz-aTnIr8oFOoAuph6lndM">[NEW!] HTTP(S) Application Note</a>
+[[NEW!] HTTP(S) Application Note](https://mega.nz/file/nc810Jhb#gsnFEC8vhGYV_IY6boIKraz-aTnIr8oFOoAuph6lndM)
 
-<a href="https://mega.nz/file/6cNWERgL#hNHEBKAbLoZzzUoBxdzHmyH_TR9cAV1gM5SCCyKLlHA">[NEW!] Software Thermal Management Guide</a>
+[[NEW!] Software Thermal Management Guide](https://mega.nz/file/6cNWERgL#hNHEBKAbLoZzzUoBxdzHmyH_TR9cAV1gM5SCCyKLlHA)
 
-<a href="https://mega.nz/file/bJE1zbDQ#gj1-4KrFbhLLbSUaoaKNhbVRz7M-X5beMXFcwwbyGss">[NEW!] Thermal Design Guide</a>
+[[NEW!] Thermal Design Guide](https://mega.nz/file/bJE1zbDQ#gj1-4KrFbhLLbSUaoaKNhbVRz7M-X5beMXFcwwbyGss)
 
-<a href="https://mega.nz/file/aIsWgKRB#n7YcwAsreFfCYTcTw0Vk06Y0EQk6yYwa8AwP1IMuRHQ">[NEW!] 5G Network Status Judgement Introduction</a>
+[[NEW!] 5G Network Status Judgement Introduction](https://mega.nz/file/aIsWgKRB#n7YcwAsreFfCYTcTw0Vk06Y0EQk6yYwa8AwP1IMuRHQ)
 
-<a href="https://mega.nz/file/HIMRkAwA#7O19pLJwHKF2cYRs_y68sKo2Vd7HmjRmmBrnUOFrSuo">[NEW!] CA Combos Spreadsheet</a>
+[[NEW!] CA Combos Spreadsheet](https://mega.nz/file/HIMRkAwA#7O19pLJwHKF2cYRs_y68sKo2Vd7HmjRmmBrnUOFrSuo)
 
 </details>
 
 <details>
    <summary>[NEW!] QuecOpen</summary>
 
-<a href="https://mega.nz/file/LRVDDYCQ#VFARx9j_0g43LaBS_-4IPDjQwAR55dePl4eVgFQcGXY">DFOTA Generation Tool Directions </a>
+[DFOTA Generation Tool Directions](https://mega.nz/file/LRVDDYCQ#VFARx9j_0g43LaBS_-4IPDjQwAR55dePl4eVgFQcGXY)
 
-<a href="https://mega.nz/file/qBt3jTBD#f7KaTzcHwtDhBO6pmucQUqjfUh2Ue91ywMasldNrCh4">[NEW!] FullFOTA Update Guide</a>
+[[NEW!] FullFOTA Update Guide](https://mega.nz/file/qBt3jTBD#f7KaTzcHwtDhBO6pmucQUqjfUh2Ue91ywMasldNrCh4)
 
-<a href="https://mega.nz/file/LNMUAarY#auGqgn3m-6_s1v3jOQ3W7YiqfKU_2Obn5mGMzbtPXzY">[NEW!] Virtual Port Programming for AT Command Sending and Receiving Guide</a>
+[[NEW!] Virtual Port Programming for AT Command Sending and Receiving Guide](https://mega.nz/file/LNMUAarY#auGqgn3m-6_s1v3jOQ3W7YiqfKU_2Obn5mGMzbtPXzY)
 
-<a href="https://mega.nz/file/nQdUlS5S#u9NCOPapYfc6LlCzC2SYSPKORokG3NGMwV7L7u_cjRM">[NEW!] Device Management and Cellular Network Development Guide</a>
+[[NEW!] Device Management and Cellular Network Development Guide](https://mega.nz/file/nQdUlS5S#u9NCOPapYfc6LlCzC2SYSPKORokG3NGMwV7L7u_cjRM)
 
-<a href="https://mega.nz/file/3d1HlKYL#j3dEHFOHTpaMbogDgn2WCRSiilWNMzila21eZHwvmok">[NEW!] Linux System Time Synchronization Guide </a>
+[[NEW!] Linux System Time Synchronization Guide](https://mega.nz/file/3d1HlKYL#j3dEHFOHTpaMbogDgn2WCRSiilWNMzila21eZHwvmok)
 
-<a href="https://mega.nz/file/mdkU1b6A#gjq-N6__TMZrSTe4oXurworrwDlUsCDCCHJg-pQ2fXk">[NEW!] Open-Source Software Package Cross-Compilation Guide</a>
+[[NEW!] Open-Source Software Package Cross-Compilation Guide](https://mega.nz/file/mdkU1b6A#gjq-N6__TMZrSTe4oXurworrwDlUsCDCCHJg-pQ2fXk)
 
-<a href="https://mega.nz/file/uQ0BkS5Z#uaSgFc8yEbHKuS0_vefbVeeZHEVsfJ27PhehivArQcw">[NEW!] SIM and SMS Development Guide</a>
+[[NEW!] SIM and SMS Development Guide](https://mega.nz/file/uQ0BkS5Z#uaSgFc8yEbHKuS0_vefbVeeZHEVsfJ27PhehivArQcw)
 
-<a href="https://mega.nz/file/6Q1Q0R5Z#WQyE8ab0PgTkFQDeV_g5qxDom-4KQB2vyvqARyEG09o">[NEW!] Upgrade via LAN Application Note</a>
+[[NEW!] Upgrade via LAN Application Note](https://mega.nz/file/6Q1Q0R5Z#WQyE8ab0PgTkFQDeV_g5qxDom-4KQB2vyvqARyEG09o)
 
 </details>
 
@@ -334,11 +334,12 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 <details>
    <summary>View</summary>
  
-![](https://github.com/4IceG/Personal_data/blob/master/5G/antenasmall.png?raw=true)
-![](https://github.com/4IceG/Personal_data/blob/master/5G/rm520n-gl.PNG?raw=true)
+![](https://github.com/iamromulan/RM520N-GL/blob/main/Images/520_ant_pairs.png?raw=tru)
+![](https://github.com/iamromulan/RM520N-GL/blob/main/Images/520_ant_discrip.png?raw=tru)
 
 </details>
 
 ## Specification:
-![](https://github.com/4IceG/Personal_data/blob/master/5G/quectel_rm520n-gl_5g_specification_v1-0-0_preliminary_20210915-1.png?raw=true)
-![](https://github.com/4IceG/Personal_data/blob/master/5G/quectel_rm520n-gl_5g_specification_v1-0-0_preliminary_20210915-2.png?raw=true)
+![](https://github.com/iamromulan/RM520N-GL/blob/main/Images/rm520_specs_2.png?raw=tru)
+![](https://github.com/iamromulan/RM520N-GL/blob/main/Images/520_salesdoc.png?raw=tru)
+![](https://github.com/iamromulan/RM520N-GL/blob/main/Images/rm520_specs.png?raw=tru)

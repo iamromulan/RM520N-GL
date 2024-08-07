@@ -232,7 +232,7 @@ Step 3.
    <summary> View</summary>
 
 Connect your modem to your computer by USB. Either through a USB to m.2 B-key sled (should have a sim slot as well) from Amazon or by using an RGMII board's USB C port.
-### If you installed by using the autoinstaller: 
+### If you installed by using [QuecDeploy](#quecdeploy): 
 You should already have a desktop icon and start menu shortcut for Qnavigator.
 #### 1. Open Qnavagator, you'll be presented with this screen, just press escape (ESC) to skip their directions. 
 ![COM ports](https://github.com/iamromulan/quectel-rgmii-configuration-notes/blob/main/images/qnavfirst.png?raw=true)
@@ -252,11 +252,11 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 
 | Date | Version | Link |
 | --- | --- | --- |
-| `2024-02-07` | *RG520N&RG525F&RG5x0F&RM5x0N&RM521F Series* | <a href="https://mega.nz/file/2IlSVTAZ#y10u-uxWGo9afvAI54jO4JpMLLjpoFGLINVaUC49ZQY">View/Download</a> |
-| `2023-07-31` | *RG520N&RG525F&RG5x0F&RM5x0NSeries* | <a href="https://mega.nz/file/zEEmCYTb#Y_YVlSEWNn9tz9dpHvY1rSZuDR_gEB6XEVIQ0nGrCJQ">View/Download</a> |
-| `2022-08-12` | *RG520N&RG52xF&RG530F&RM520N&RM530NSeries* | <a href="https://mega.nz/file/zIllzT7S#leMbHiKL_jmEy2LZMp1-3aI2BLW2m8vkNFl8ApT3FQw">View/Download</a> |
-| `2021-08-09` | *RG50xQ&RM5xxQ Series* | <a href="https://mega.nz/file/mVNRXZrI#FS1_8YIZgqEEcyjWG1__RMI5IeiTc6yrwU9xw6bCpsQ">View/Download</a> |
-| `2020-10-09` | *RG50xQ&RM5xxQ Series* | <a href="https://mega.nz/file/nIlhFBhS#QuJZIaN0EkBvLYqFhSUCv_qjx0aGsSG04VXUp1huATw">View/Download</a> |
+| `2024-02-07` | *RM50X and RM52X series modems AT Commands (some apply to RM550/551)* | <a href="https://mega.nz/file/WZsgHZ7C#XcE0LPkzgb_aS7o8yEeCMSEA_YzCxflXBgfxOsOrt3M">View/Download</a> |
+| `2023-07-31` | *RM50X and RM52X series modems AT Commands* | <a href="https://mega.nz/file/mNFyxD6K#Y_YVlSEWNn9tz9dpHvY1rSZuDR_gEB6XEVIQ0nGrCJQ">View/Download</a> |
+| `2022-08-12` | *RM50X and RM52X series modems AT Commands* | <a href="https://mega.nz/file/WRFQSLIY#leMbHiKL_jmEy2LZMp1-3aI2BLW2m8vkNFl8ApT3FQw">View/Download</a> |
+| `2021-08-09` | *RM50X and RM52X series modems AT Commands* | <a href="https://mega.nz/file/vEE1lR4L#FS1_8YIZgqEEcyjWG1__RMI5IeiTc6yrwU9xw6bCpsQ">View/Download</a> |
+| `2020-10-09` | *RM50X and RM52X series modems AT Commands* | <a href="https://mega.nz/file/HcVVAA7Q#QuJZIaN0EkBvLYqFhSUCv_qjx0aGsSG04VXUp1huATw">View/Download</a> |
 
 </details>
 
@@ -267,11 +267,13 @@ You should already have a desktop icon and start menu shortcut for Qnavigator.
 
 [[NEW!] Quectel 5G&LTE-Advanced Module Product Overview V7.1](https://www2.quectel.com/5GLTEAdvance)
 
-[Quectel Product Brochure V7.4](https://mega.nz/file/TI9yHTjL#iJVMKIMRH-gaIwoSZkUDgmAU3s9hjL3I1brFHeV0t-I)
+[Quectel Product Brochure V7.7](https://mega.nz/file/2Z1HCKLR#8dxbdpXK-CC8_MWnJ_O4ykFqb08ljhzmj0MHK5b1nWI)
+
+[Quectel Product Brochure V7.4](https://mega.nz/file/TEsUkTKD#iJVMKIMRH-gaIwoSZkUDgmAU3s9hjL3I1brFHeV0t-I) (Includes the canceled RM521F-GL module) 
 
 [QCOM User Guide V1.1](https://mega.nz/file/HMsgAI7Q#kVLf7ETrE13zrsUUmdq2NUe2d26ZSkbeqgmNXQ4offw)
 
-[QFlash User Guide V5.0](https://mega.nz/file/bQsw1YqS#c2j1rqAvUZRAhQUniaHfUD0CZZNvxtusW12eIgReDzI)
+[QFlash User Guide V5.5](https://mega.nz/file/KFsHgbSS#kJYBxnQk3--lsXpCg0fz7V7551_GzlDPu27Uo7hPNXo)
 
 [[Updated!] Quectel RM520N-GL Hardware Design](https://mega.nz/file/fRlBgSDb#zusk1tH29-4HGu9tJJfxkpARlbo-LBwz3h4Bqk9qTEI)
 

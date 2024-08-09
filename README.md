@@ -81,7 +81,7 @@ All files installed/downloaded will go to C:\Quectel\
 
 ## Where to buy
 
-Currently the cheapest place I know to purchase an RM520N-GL modem is: [AliExpress](aliexpress.us/item/3256804040004867.html?spm=a2g0o.cart.0.0.494038da9w4jym&mp=1&gatewayadapt=glo2usa) for $143.19 + shipping
+Currently the cheapest place I know to purchase an RM520N-GL modem is: [AliExpress](https://a.aliexpress.com/_mNz3KBw) for $143.19 + shipping
 
 
 ## Toolz:

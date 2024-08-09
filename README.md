@@ -8,6 +8,7 @@ You will find Tools, Docs, and Firmware for it here, as well as a .exe (QuecDepl
 # Table of Contents
 - [Connection Methods](#connection-methods)
 - [QuecDeploy](#quecdeploy)
+- [Where to Buy](#where-to-buy)
 - [Toolz](#toolz)
 - [Firmware](#firmware)
 - [Firmware update instructions](#firmware-update-instructions)
@@ -77,6 +78,11 @@ If you would prefer to simply explorer all of the downloads I can give you; take
 
 It is a menu style Powershell script that will let you install Qflash and Qnav. ADB and fastboot are now automatically included with Qflash! It will also let you download firmware and view PDFs for several modems (by linking you to the correct repo). It heavily relies on megatools, a cli for downloading files from mega.nz
 All files installed/downloaded will go to C:\Quectel\
+
+## Where to buy
+
+Currently the cheapest place I know to purchase an RM520N-GL modem is: [AliExpress](aliexpress.us/item/3256804040004867.html?spm=a2g0o.cart.0.0.494038da9w4jym&mp=1&gatewayadapt=glo2usa) for $143.19 + shipping
+
 
 ## Toolz:
 <details>

@@ -12,6 +12,7 @@ You will find Tools, Docs, and Firmware for it here, as well as a .exe (QuecDepl
 - [Toolz](#toolz)
 - [Firmware](#firmware)
 - [Firmware update instructions](#firmware-update-instructions)
+- [Enter Emergency Download Mode](#edl-mode)
 - [How to use Qnavigator to send AT commands](#how-to-use-qnavigator-to-send-at-commands)
 - [AT commands](#at-commands)
 - [Other Docs](#other-docs)
@@ -95,6 +96,8 @@ Currently the cheapest place I know to purchase an RM520N-GL modem is: [AliExpre
 [Quectel Windows USB Driver(Q) MBIM V1.3](https://mega.nz/file/XRc0nZSQ#9hPjcrasgOQ9ej_tWQhvC6_NQC3iZMIdu0t17sz7AHE)
 
 [Quectel Windows USB Driver(Q) RNDIS V1.1](https://mega.nz/file/vRN1ERaL#0zp9di4iFEaamkczsmw_Xaxr3fcWS7in9ODXZ73l8Lg)
+
+[Quectel Windows PCIe Driver 1.0.0.2](https://mega.nz/file/qVlQFTaL#Fdpcf7jpl-Cg_eoauRU0U1k2jUcF2Zqv88F6SaOf8ig)
 
 [QFlash V7.1 EN](https://mega.nz/file/bdUWiKSQ#7RPymUcm7Rgdjf9mRsWjuf9zXia5qxV7NZWMLruvb5A) 
 
@@ -232,12 +235,56 @@ Step 3.
 
 </details>
 
+## EDL Mode
+
+<details>
+   <summary> View</summary>
+  
+### If  for some reason something gets messed up on your modem and you are not able to see the DM port to flash firmware, theres a way to enter EDL mode (Emergency Download Mode)
+
+Typically when you flash firmware the [normal method](#firmware-update-instructions) you use Qflash and select the DM port. When you click start, Qflash tells the DM port (Diagnostics port) to reboot into EDL mode. When the module comes back up only one port will exist: The QDLoader port. This means the modem has entered EDL mode. Qflash will then proceed to flash.
+
+ It is also possible to enter EDL mode by using adb.
+The command is:
+``adb reboot edl``
+
+However, if you have nothing showing up at all (the modem won't boot) then this is the manual way to enter EDL mode:
+### Step 1
+Find a m.2 board where the slot is on the edge. That way you can see the back of the module. For this example, I will use the [Rework.Network Ethernet M.2 Board](rework.network/collections/lte-home-gateway/products/5g2phy)
+
+It is also possible to take a regular M.2 to USB adapter and cut the board so the back of the modem will be visible. This is dependent on the circuity layout of the particular m.2 to USB adapter board.
+
+### Step 2
+**Place the modem in the board and turn it upside down on a static free surface, and connect the USB cable to the board. Be prepared to connect it to you PC but don't do it yet.**
+
+### Step 3
+
+For the RM500-RM530 series modems, you'll need a small wire or cable tie. I ended up striping the ends off a cable tie. See below.....
+![](https://github.com/iamromulan/RM521F-GL/blob/main/Images/edl_tool.png?raw=tru)
+
+### Step 4
+Open Device manager on your PC and keep and eye on the ports section.
+Using the tool from step 3, trip the 2 contacts on the back of the modem **at the same time as plugging the USB to your PC**.  If you are successful, the QDLoader port should instantly appear. You do not need to keep the 2 contacts on the back tripped after you plug it in and see the QDLoader port. If the QDLoader port doesn't show up within 3 seconds, unplug the USB and try again.
+
+For the RM500-RM530 modems these are the correct ports to jump:
+![](https://github.com/iamromulan/RM521F-GL/blob/main/Images/edl1.jpg?raw=tru)
+**Here is how I did it. Remember plug the USB in at the same time as doing this:**
+![](https://github.com/iamromulan/RM521F-GL/blob/main/Images/521_edl.png?raw=tru)
+
+### Step 5
+
+At this point you should see the QDLoader port in device manager:
+ ![](https://github.com/iamromulan/RM521F-GL/blob/main/Images/qdloader.png?raw=tru)
+
+Follow the steps from the [normal method](#firmware-update-instructions) and treat the QDLoader port as the DM port.
+</details>
+
 ## How to use Qnavigator to send AT commands
 
 <details>
    <summary> View</summary>
 
-Connect your modem to your computer by USB. Either through a USB to m.2 B-key sled (should have a sim slot as well) from Amazon or by using an RGMII board's USB C port.
+Connect your modem to your computer by USB. Either through a USB to m.2 B-key sled (should have a sim slot as well) from Amazon or by using a PCIe RC (RJ45 sled) USB C port.
 ### If you installed by using [QuecDeploy](#quecdeploy): 
 You should already have a desktop icon and start menu shortcut for Qnavigator.
 #### 1. Open Qnavagator, you'll be presented with this screen, just press escape (ESC) to skip their directions. 

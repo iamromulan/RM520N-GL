@@ -134,6 +134,7 @@ Currently the cheapest place I know to purchase an RM520N-GL modem is: [AliExpre
 
 | Date | Version | Link |
 | --- | --- | --- |
+| `2024-06-20` | *RM520NGLAAR01A08M4G* | <a href="https://mega.nz/file/eBVFhDhZ#1or8iMpmJiIKtZAPjo3rBTL2rit-pMFyZN10VSUzbgg">Download</a> |
 | `2024-04-03` | *RM520NGLAAR01A08M4G* | <a href="https://mega.nz/file/ucclVCLT#chq0HzixUTPoNpG9G2duv5Xhj2JChz2ALa6QJpZJ3kY">Download</a> |
 | `2024-02-01` | *RM520NGLAAR01A08M4G* | <a href="https://mega.nz/file/2NdzWKJJ#n4EbQkh17Pwfkfxzz-ZbjN5MFK6fJVRgLx6Chh43QRk">Download</a> |
 | `2023-07-20` | *RM520NGLAAR01A08M4G* | <a href="https://mega.nz/file/SYMh0YwI#xLaLs8qeOMOmic1wHLROrZedZ3USmNzGrSkFddOiAzk">Download</a> |
@@ -149,6 +150,7 @@ Currently the cheapest place I know to purchase an RM520N-GL modem is: [AliExpre
 
 | Date | Version | Link |
 | --- | --- | --- |
+| `2024-08-09` | *RM520NGLAAR03A04M4G* | <a href="https://mega.nz/file/GYEVXZbT#h4URXFp0VVl4IWklv24bbtKiZU-bWy96WjSeGVu-Li0">Download</a> |
 | `2024-03-28` | *RM520NGLAAR03A03M4G* | <a href="https://mega.nz/file/PcV0DDzA#aeQkP3V6WnzvO5BUPTw0Vm1Zdb5n9AA0Zb3ebSsHYlM">Download</a> |
 | `2024-01-02` | *RM520NGLAAR03A01M4G* | <a href="https://mega.nz/file/fdE1iY4T#4q_gz03GbQZ6mR3-SdQVptelwNPrklVSPWa1VcH9pVo">Download</a> |
 | `2023-11-26` | *RM520NGLAAR03A02M4GA* | <a href="https://mega.nz/file/uZsCkCyL#XxVYTEuPJJOxz1WrSHmkdTbNMvziU9LIDTPIbTh2rkg">Download</a> |

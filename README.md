@@ -60,7 +60,7 @@ The modems M.2 B-Key interface is a combination of both USB 3.1 and PCIe 4.0 alo
 #### PCIe RC (Root Complex Mode)(AP)
 - In PCIe root complex mode the modem will act as a PCIe host/root complex device. In this way the modem can be provided with an endpoint device like an Ethernet chipset or a WiFi chipset for it to use. On the RM50x, RM52x, and RM530 modems, after setting this mode you must enable the correct driver for the endpoint device you are using. 
   - For Ethernet chipsets you'll use the ``AT+QETH="eth_driver"`` command to see what driver is currently enabled, and for a list of supported drivers. 
-      - For example: ``AT+QETH="eth_driver","r8125",1`` would enable the driver for the RTL8125 ethernet chipset. A good example of a ready to use board with the 2.5Gig RTL8125 ethernet chipset would be the [Rework.Network PHY Board](rework.network/collections/lte-home-gateway/products/5g2phy)
+      - For example: ``AT+QETH="eth_driver","r8125",1`` would enable the driver for the RTL8125 ethernet chipset. A good example of a ready to use board with the 2.5Gig RTL8125 ethernet chipset would be the [Rework.Network PHY Board](https://rework.network/collections/lte-home-gateway/products/5g2phy)
    - For WiFi chipsets, for example, you'd use the command ``AT+QCFG="wifi/model","fc64e"`` to select the driver for the fc64e WiFi chip
      - For now, only Quectel WiFi chips can be used. The following models are supported:
        - "fc64e","fc06e","fc06e-33","fc60e","fc08e"
@@ -252,7 +252,7 @@ The command is:
 
 However, if you have nothing showing up at all (the modem won't boot) then this is the manual way to enter EDL mode:
 ### Step 1
-Find a m.2 board where the slot is on the edge. That way you can see the back of the module. For this example, I will use the [Rework.Network Ethernet M.2 Board](rework.network/collections/lte-home-gateway/products/5g2phy)
+Find a m.2 board where the slot is on the edge. That way you can see the back of the module. For this example, I will use the [Rework.Network Ethernet M.2 Board](https://rework.network/collections/lte-home-gateway/products/5g2phy)
 
 It is also possible to take a regular M.2 to USB adapter and cut the board so the back of the modem will be visible. This is dependent on the circuity layout of the particular m.2 to USB adapter board.
 
